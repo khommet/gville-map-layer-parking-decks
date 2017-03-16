@@ -48,6 +48,8 @@ Now what?  Well, things get stale and maps die, that's what.
 * For the right drop-down box select "Comma-seperated values (.csv)
 * Now click the Publish button
 * A URL will be provided. It looks like https://docs.google.com/spreadsheets/d/{a-bunch-of-random-numbers-and-letters}/pub?output=csv
+* 
+https://docs.google.com/spreadsheets/d/1PTSm1kHJzPrn5uS3X4Zet5Z6GX2_bs0Ve3AbyvqeXEM/pub?output=csv
 
 Additions or changes to the spreadsheet will appear on a refreshed map somewhere between immediately and a few minutes later.
 
